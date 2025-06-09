@@ -1,4 +1,4 @@
 # hello-world
-このリポジトリは GitHub Flow を実行するためのリポジトリです
+This repository is for running GitHub Flow
 
-私は北九州に住んでいます
+I live in Kitakyushu
